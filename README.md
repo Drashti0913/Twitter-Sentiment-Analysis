@@ -135,7 +135,7 @@ This project can be deployed to Azure App Service; high-level steps:
 
 ---
 
-## What I learned (MLH-focused)
+## What I learned 
 - Engineering: converting an exploratory demo into a single-file production-ready app that’s easy to run and discuss in interviews.  
 - NLP: dealing with noisy social media text; combining lexicon-based approach (VADER) which is strong on social text, with TextBlob for general text.  
 - Systems: deploying and CI/CD options (Azure) and working around Twitter API access changes using `snscrape`.  
